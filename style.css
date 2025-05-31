@@ -294,7 +294,7 @@
       
       margin: 30px;
       
-      margin-left: 100px;
+      margin-left: 170px;
     }
 
      #experience-img{
@@ -303,8 +303,9 @@
     }
 
     #experience-year{
-      margin-left: 110px;
-      padding-right: 70px;
+      
+      text-align: center;
+      
     }
 
     .fact-description{
